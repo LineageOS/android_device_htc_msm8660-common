@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAARn///+Y\u003d",
+        "filename": "init.htc8660.usb.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-03-28T09:08:32Z",
+      "side": 1,
+      "message": "These lines are pretty pyramid specific, I suspect we\u0027re going to have to break init.htc8660.usb.rc into a device specific file and a common file, or move it to the device tree entirely.",
+      "revId": "319cef9e5a7169d9a50fab7893ee36a7a0eb57ce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
