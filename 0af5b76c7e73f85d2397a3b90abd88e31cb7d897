@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAASn//93A\u003d",
+        "filename": "msm8660.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1179
+      },
+      "writtenOn": "2012-04-28T13:33:17Z",
+      "side": 1,
+      "message": "If init.post_boot.sh is removed, I\u0027m guessing this should be too? My build fails with no rule to make target.",
+      "revId": "0af5b76c7e73f85d2397a3b90abd88e31cb7d897",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
