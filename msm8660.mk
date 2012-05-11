@@ -34,10 +34,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     device/htc/msm8660-common/configs/egl.cfg:system/lib/egl/egl.cfg
 
-# Media config
-PRODUCT_COPY_FILES += \
-    device/htc/msm8660-common/configs/media_profiles.xml:system/etc/media_profiles.xml
-
 # QCOM Display
 PRODUCT_PACKAGES += \
     copybit.msm8660 \
