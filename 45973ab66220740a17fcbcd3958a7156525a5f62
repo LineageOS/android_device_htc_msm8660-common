@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcX///Lw\u003d",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-01-08T03:36:01Z",
+      "side": 1,
+      "message": "looks like this is only there to support the extra low quality entries",
+      "revId": "45973ab66220740a17fcbcd3958a7156525a5f62",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///L8\u003d",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-01-08T03:36:01Z",
+      "side": 1,
+      "message": "these changes required?",
+      "revId": "45973ab66220740a17fcbcd3958a7156525a5f62",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///L0\u003d",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-01-08T03:36:01Z",
+      "side": 1,
+      "message": "extra unrelated entries?",
+      "revId": "45973ab66220740a17fcbcd3958a7156525a5f62",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///L4\u003d",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-01-08T03:36:01Z",
+      "side": 1,
+      "message": "this seems to be the relevant encoder entry, but the bitrate has gone up?",
+      "revId": "45973ab66220740a17fcbcd3958a7156525a5f62",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
