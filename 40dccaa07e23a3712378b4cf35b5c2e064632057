@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAc3//8g8\u003d",
+        "filename": "configs/media_codecs.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-01-31T13:33:05Z",
+      "side": 1,
+      "message": "actually copied from samsung msm8660-common",
+      "revId": "40dccaa07e23a3712378b4cf35b5c2e064632057",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//8hQ\u003d",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-01-31T13:33:05Z",
+      "side": 1,
+      "message": "mixed tabs and spaces, not that this section is actually necessary at all.",
+      "revId": "40dccaa07e23a3712378b4cf35b5c2e064632057",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//8hM\u003d",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 168,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-01-31T13:33:05Z",
+      "side": 1,
+      "message": "this line is the only line that matters in this file",
+      "revId": "40dccaa07e23a3712378b4cf35b5c2e064632057",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//8hA\u003d",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 253,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-01-31T13:33:05Z",
+      "side": 1,
+      "message": "mixed tabs and spaces, also unnecessary",
+      "revId": "40dccaa07e23a3712378b4cf35b5c2e064632057",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//8hI\u003d",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 388,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-01-31T13:33:05Z",
+      "side": 1,
+      "message": "strictly speaking this line and the one below it aren\u0027t necessary, but it fixes the artifacts in the encoded video",
+      "revId": "40dccaa07e23a3712378b4cf35b5c2e064632057",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
